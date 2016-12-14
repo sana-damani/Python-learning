@@ -1,4 +1,3 @@
-# Rock-paper-scissors-lizard-Spock template
 import random
 
 # The key idea of this program is to equate the strings
@@ -73,13 +72,8 @@ def rpsls(player_choice):
     else:
         print "Computer wins!"
         
-# test your code - THESE CALLS MUST BE PRESENT IN YOUR SUBMITTED CODE
 rpsls("rock")
 rpsls("Spock")
 rpsls("paper")
 rpsls("lizard")
 rpsls("scissors")
-
-# always remember to check your completed program against the grading rubric
-
-
